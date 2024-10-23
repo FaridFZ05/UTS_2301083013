@@ -1,6 +1,12 @@
 # uts_23010083013_a
 
-A new Flutter project.
+Farid Fadlizil Ikram
+
+2301083013
+
+TK 2A
+
+Soal A
 
 ## Getting Started
 
